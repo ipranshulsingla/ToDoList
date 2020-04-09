@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "https://ipranshulsingla.github.io/ToDoList/static/css/main.7b620376.chunk.css",
-    "main.js": "https://ipranshulsingla.github.io/ToDoList/static/js/main.0dbf97fc.chunk.js",
-    "main.js.map": "https://ipranshulsingla.github.io/ToDoList/static/js/main.0dbf97fc.chunk.js.map",
+    "main.js": "https://ipranshulsingla.github.io/ToDoList/static/js/main.f82c5486.chunk.js",
+    "main.js.map": "https://ipranshulsingla.github.io/ToDoList/static/js/main.f82c5486.chunk.js.map",
     "runtime-main.js": "https://ipranshulsingla.github.io/ToDoList/static/js/runtime-main.ff6edf7d.js",
     "runtime-main.js.map": "https://ipranshulsingla.github.io/ToDoList/static/js/runtime-main.ff6edf7d.js.map",
     "static/css/2.de424728.chunk.css": "https://ipranshulsingla.github.io/ToDoList/static/css/2.de424728.chunk.css",
     "static/js/2.028b72d4.chunk.js": "https://ipranshulsingla.github.io/ToDoList/static/js/2.028b72d4.chunk.js",
     "static/js/2.028b72d4.chunk.js.map": "https://ipranshulsingla.github.io/ToDoList/static/js/2.028b72d4.chunk.js.map",
     "index.html": "https://ipranshulsingla.github.io/ToDoList/index.html",
-    "precache-manifest.fdab87fcca6b4f6bc698de00651a702b.js": "https://ipranshulsingla.github.io/ToDoList/precache-manifest.fdab87fcca6b4f6bc698de00651a702b.js",
+    "precache-manifest.effe5aa3ee07952c368550809a2ffdad.js": "https://ipranshulsingla.github.io/ToDoList/precache-manifest.effe5aa3ee07952c368550809a2ffdad.js",
     "service-worker.js": "https://ipranshulsingla.github.io/ToDoList/service-worker.js",
     "static/css/2.de424728.chunk.css.map": "https://ipranshulsingla.github.io/ToDoList/static/css/2.de424728.chunk.css.map",
     "static/css/main.7b620376.chunk.css.map": "https://ipranshulsingla.github.io/ToDoList/static/css/main.7b620376.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.de424728.chunk.css",
     "static/js/2.028b72d4.chunk.js",
     "static/css/main.7b620376.chunk.css",
-    "static/js/main.0dbf97fc.chunk.js"
+    "static/js/main.f82c5486.chunk.js"
   ]
 }
